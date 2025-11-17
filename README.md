@@ -1,16 +1,10 @@
 <div align='center'>
-    <img src="./images/图像.jpg" alt="alt text" width="100%">
     <h1>早/午/晚安各位！</h1>
-</div>
-
-<div align="center">
 
 [中文](./README.md) | [English](./README_en.md)
-
 </div>
 
 <p align="center">
-  <a href="https://ling.com/repository/d4aae58ddbf34f0799bf3e8f965e0d70" target="_blank"><img src="https://abroad.ling.com/v1/widgets/recommend.svg?rid=d4aae58ddbf34f0799bf3e8f965e0d70&claim_uid=8MKvZoxaWt" alt="Featured｜ling" style="width: 250px; height: 54px;" width="250" height="54" /></a><br>
   <a href="https://raw.githubusercontent.com/hctj353056/hctj353056/图像/公众号.jpg"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://github.com/hctj353056/ling/stargazers"><img src="https://img.shields.io/github/stars/hctj353056/ling.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/hctj353056/ling/issues"><img src="https://img.shields.io/github/issues/hctj353056/ling.svg?style=popout-square" alt="GitHub issues"></a>
