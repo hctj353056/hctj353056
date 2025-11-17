@@ -1,8 +1,5 @@
 <div align='center'>
     <h1>早/午/晚安各位！</h1>
-</div><div align='center'>
-
-[中文](./README.md) | [English](./README_en.md)
 </div><p align="center">
   <a href="https://github.com/hctj353056/hctj353056/stargazers"><img src="https://img.shields.io/github/stars/hctj353056/hctj353056.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/hctj353056/hctj353056/issues"><img src="https://img.shields.io/github/issues/hctj353056/hctj353056.svg?style=popout-square" alt="GitHub issues"></a>
