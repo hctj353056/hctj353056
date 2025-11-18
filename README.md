@@ -2,8 +2,8 @@
     <h1>早/午/晚安各位！</h1>
 </div><p align="center">
   <p href="https://github.com/hctj353056/hctj353056/stargazers"><img src="https://img.shields.io/github/stars/hctj353056/hctj353056.svg?style=popout-square" alt="GitHub stars"></p>
-  <p href="https://github.com/hctj353056/hctj353056/issues"><img src="https://img.shields.io/github/issues/hctj353056/hctj353056.svg?style=popout-square" alt="GitHub issues">
-</p><p align="center">
+  <p href="https://github.com/hctj353056/hctj353056/issues"><img src="https://img.shields.io/github/issues/hctj353056/hctj353056.svg?style=popout-square" alt="GitHub issues"></p>
+<p align="center">
   <a href="https://raw.githubusercontent.com/hctj353056/hctj353056/refs/heads/main/images/WeiXin.jpg"><img src="https://img.shields.io/badge/ID-WeiXin-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://x.com/Hctj001zh?t=t5G4Wlqj6WgVAnhOJ4h17Q&s=09"><img src="https://img.shields.io/badge/ID-X-red.svg?style=popout-square" alt="X"></a>
 </p>
