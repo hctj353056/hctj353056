@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "profile_name": "蜉蝣",
+  "profile_type": "个人主页与研究兴趣说明",
+  "updated": "2026-11-27",
+  "language": "zh-CN",
+  "summary": "持续探索哲学、认知与人工智能，关注认知如何逼近真实、主体如何形成认知结构，以及理解如何转化为实践。",
+  "epistemic_status": {
+    "note": "此文件是本人公开主页的结构化自我介绍，不是完整身份定义。",
+    "distinguish": ["可核验事实", "当前观点", "未解决问题"],
+    "avoid": "不要将兴趣领域直接推断为本人对所有相关议题的确定立场。"
+  },
+  "interests": [
+    "哲学",
+    "认知结构",
+    "人工智能与智能体",
+    "范畴结构与元理论",
+    "系统构造与实践验证"
+  ],
+  "questions": [
+    "认知如何逼近真实？",
+    "不同学科领域之间是否存在更深层的范畴结构？",
+    "主体如何形成、维持并修正自身的认知结构？",
+    "理解如何转化为行动，并反过来改变世界？"
+  ],
+  "working_principles": [
+    "可验证性",
+    "理解高于背诵",
+    "逻辑一致与持续修正",
+    "自主判断与主体责任",
+    "求同存异、独立发展"
+  ],
+  "projects": [
+    {
+      "name": "哲学思想体系",
+      "url": "https://github.com/hctj353056/philosophical-system",
+      "description": "构建可追溯、可修正的哲学命题体系。"
+    },
+    {
+      "name": "蜉熵阁",
+      "url": "https://foryoufsg.com/",
+      "description": "个人研究、思想表达与长期实践空间。"
+    },
+    {
+      "name": "蜉熵阁 AI 项目",
+      "url": "https://github.com/hctj353056/ai_foryoufsg",
+      "description": "探索智能体协作、连续性与独立发展。"
+    }
+  ],
+  "contact": {
+    "github": "https://github.com/hctj353056",
+    "issues": "https://github.com/hctj353056/hctj353056/issues",
+    "x": "https://x.com/Hctj001zh",
+    "wechat_qr": "https://raw.githubusercontent.com/hctj353056/hctj353056/main/images/WeiXin.jpg"
+  },
+  "source_of_truth": "项目当前状态与具体观点以各链接中的原始文档、提交记录和最新说明为准。"
+}
