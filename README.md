@@ -1,6 +1,6 @@
 <div align="center">
 
-# 蜉蝣 · Mayfly
+# 蜉蝣 · foryoufsg
 
 **理解真实，构造认知，并以实践参与世界。**
 
