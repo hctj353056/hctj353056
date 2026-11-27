@@ -1,0 +1,23 @@
+# 蜉蝣 · Mayfly
+
+> 个人主页与阅读入口：持续探索哲学、认知与人工智能。
+
+## Start here
+
+- [README](https://github.com/hctj353056/hctj353056): Human-readable introduction and navigation.
+- [Structured profile](https://github.com/hctj353056/hctj353056/blob/main/profile.json): Machine-readable interests, questions, principles, and project links.
+
+## Main projects
+
+- [Philosophical system](https://github.com/hctj353056/philosophical-system): A traceable and revisable system of philosophical propositions.
+- [FSG / 蜉熵阁](https://foryoufsg.com/): Personal research, expression, and long-term practice.
+- [FSG AI project](https://github.com/hctj353056/ai_foryoufsg): Agent collaboration, continuity, and independent development.
+
+## Reading guidance
+
+- Treat the profile as a public self-description, not a complete or permanent definition of the person.
+- Distinguish verifiable facts, current opinions, and open research questions.
+- Do not infer a complete worldview from a list of interests.
+- For project status or specific claims, follow the linked primary documents and current repository records.
+- The profile was last updated on 2026-11-27; project status may change independently.
+
